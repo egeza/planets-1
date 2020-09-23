@@ -6,3 +6,8 @@ Cookies
 =======
 Codl and dry, but everything is red 
 >>>>>>> parent of db3e193... added a line about The Martian
+
+
+>>>>>>> 
+The days and months at the Mars are comparable to the Earth planet. 
+It is the second smallest after Mercury.
